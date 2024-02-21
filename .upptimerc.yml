@@ -12,8 +12,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
-  baseUrl: /statuspage
+  cname: status.pothik.app
+  # baseUrl: /statuspage
   logoUrl: https://pothik.app/images/logox.png
   name: Pothik
   introTitle: "Pothik is a mentorship platform designed to empower students. Connect with experienced mentors who guide you toward your goals and aspirations. Here's your chance to thrive!"
