@@ -4,18 +4,20 @@
     "url": "https://pothik.app/",
     "icon": "https://icons.duckduckgo.com/ip3/pothik.app.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 115,
-    "timeDay": 149,
-    "timeWeek": 115,
-    "timeMonth": 115,
-    "timeYear": 115,
-    "dailyMinutesDown": {}
+    "time": 126,
+    "timeDay": 192,
+    "timeWeek": 126,
+    "timeMonth": 126,
+    "timeYear": 126,
+    "dailyMinutesDown": {
+      "2024-02-24": 0
+    }
   },
   {
     "name": "Dashboard",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1362,
-    "timeDay": 1150,
-    "timeWeek": 1362,
-    "timeMonth": 1362,
-    "timeYear": 1362,
+    "time": 1330,
+    "timeDay": 1136,
+    "timeWeek": 1330,
+    "timeMonth": 1330,
+    "timeYear": 1330,
     "dailyMinutesDown": {}
   }
 ]
