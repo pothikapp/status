@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/pothik.app.ico",
     "slug": "website",
     "status": "up",
-    "uptime": "99.81%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.81%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 123,
     "timeDay": 146,
     "timeWeek": 123,
     "timeMonth": 123,
     "timeYear": 123,
-    "dailyMinutesDown": {
-      "2024-02-24": 10
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Dashboard",
