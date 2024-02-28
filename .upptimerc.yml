@@ -15,7 +15,7 @@ status-website:
   cname: status.pothik.app
   # baseUrl: /statuspage
   logoUrl: https://pothik.app/images/logox.png
-  name: 
+  name: 🇧🇩
   introTitle: "Pothik is a mentorship platform designed to empower students. Connect with experienced mentors who guide you toward your goals and aspirations. Here's your chance to thrive!"
   introMessage: Pothik 
   navbar:
