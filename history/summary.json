@@ -22,7 +22,7 @@
     "url": "https://user.pothik.app/",
     "icon": "https://icons.duckduckgo.com/ip3/user.pothik.app.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -31,9 +31,10 @@
     "time": 1511,
     "timeDay": 1135,
     "timeWeek": 1297,
-    "timeMonth": 1305,
+    "timeMonth": 1302,
     "timeYear": 1511,
     "dailyMinutesDown": {
+      "2024-06-18": 0,
       "2024-04-07": 51,
       "2024-03-14": 16
     }
