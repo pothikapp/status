@@ -4,9 +4,9 @@
     "url": "https://pothik.app/",
     "icon": "https://icons.duckduckgo.com/ip3/pothik.app.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,14 +15,16 @@
     "timeWeek": 133,
     "timeMonth": 143,
     "timeYear": 135,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-29": 0
+    }
   },
   {
     "name": "Dashboard",
     "url": "https://user.pothik.app/",
     "icon": "https://icons.duckduckgo.com/ip3/user.pothik.app.ico",
     "slug": "dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 987,
     "timeYear": 1340,
     "dailyMinutesDown": {
+      "2024-08-29": 0,
       "2024-06-23": 53,
       "2024-06-20": 22,
       "2024-04-07": 51,
