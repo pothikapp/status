@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
     "time": 159,
-    "timeDay": 181,
-    "timeWeek": 180,
-    "timeMonth": 174,
-    "timeYear": 161,
+    "timeDay": 220,
+    "timeWeek": 191,
+    "timeMonth": 177,
+    "timeYear": 162,
     "dailyMinutesDown": {
       "2025-02-06": 528,
       "2025-02-05": 154,
@@ -27,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/user.pothik.app.ico",
     "slug": "dashboard",
     "status": "down",
-    "uptime": "52.57%",
+    "uptime": "52.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "49.88%",
-    "time": 1105,
-    "timeDay": 948,
-    "timeWeek": 765,
+    "uptimeYear": "49.61%",
+    "time": 1104,
+    "timeDay": 752,
+    "timeWeek": 759,
     "timeMonth": 758,
-    "timeYear": 1063,
+    "timeYear": 1062,
     "dailyMinutesDown": {
-      "2025-03-13": 78,
+      "2025-03-14": 76,
+      "2025-03-13": 1440,
       "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
@@ -225,8 +226,7 @@
       "2024-08-29": 515,
       "2024-06-23": 53,
       "2024-06-20": 22,
-      "2024-04-07": 51,
-      "2024-03-14": 16
+      "2024-04-07": 51
     }
   }
 ]
